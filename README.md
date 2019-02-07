@@ -10,7 +10,7 @@ A basic, 3D archery simulation and environment using basic OpenGL functions.
   
   -For both options, make sure to have freeglut.dll in the same directory as the new .exe when running it.
   
-## Gameplay
+## Interaction
   -Orient the camera with the mouse
   
   -Move/strafe with WASD
