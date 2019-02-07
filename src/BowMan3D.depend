@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1527624320 source:c:\users\paul frank\desktop\bowman3d\3dfunctions.c
+	"3dfunctions.h"
+
+1527624318 c:\users\paul frank\desktop\bowman3d\3dfunctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<GL/freeglut.h>
+
+1528103125 source:c:\users\paul frank\desktop\bowman3d\main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/freeglut.h>
+	"3dfunctions.h"
+
+1527624320 source:c:\users\paul frank\desktop\bowman3d - code\3dfunctions.c
+	"3dfunctions.h"
+
+1527624318 c:\users\paul frank\desktop\bowman3d - code\3dfunctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<GL/freeglut.h>
+
+1528103125 source:c:\users\paul frank\desktop\bowman3d - code\main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/freeglut.h>
+	"3dfunctions.h"
+
+1527624320 source:c:\users\keo\desktop\ict289_group6_assignment2\source code\3dfunctions.c
+	"3dfunctions.h"
+
+1527624318 c:\users\keo\desktop\ict289_group6_assignment2\source code\3dfunctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<GL/freeglut.h>
+
+1528104034 source:c:\users\keo\desktop\ict289_group6_assignment2\source code\main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/freeglut.h>
+	"3dfunctions.h"
+
