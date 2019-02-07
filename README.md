@@ -9,3 +9,14 @@ A basic, 3D archery simulation and environment using basic OpenGL functions.
   -Otherwise, compile main.c with your compiler of choice and make sure to tell the compiler to link and include with OpenGL/Freeglut.
   
   -For both options, make sure to have freeglut.dll in the same directory as the new .exe when running it.
+  
+## Gameplay
+  -Orient the camera with the mouse
+  
+  -Move/strafe with WASD
+  
+  -Draw bowstring back with the mouse wheel
+  
+  -Left click to shoot (hit the target for points)
+  
+  -Press R to reset arrows, escape to quit
